@@ -4,7 +4,7 @@
 
 ![Languages](https://img.shields.io/badge/-C-%23CCC4D7?style=for-the-badge&logo=c&logoColor=%23FF9B9B) 
 
-A stealthy keylogger that runs in the background and sends characters captured to a server and saves the logged keys on a file.
+A stealthy keylogger that runs in the background and logs captured characters to a file on a remote server.
 
 # Sample Usage
 
