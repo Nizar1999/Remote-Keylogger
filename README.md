@@ -4,4 +4,4 @@
 
 ![Languages](https://img.shields.io/badge/-C-%23CCC4D7?style=for-the-badge&logo=c&logoColor=%23FF9B9B) 
 
-A stealthy keylogger written in C that sends characters captured to a server and saves the logged keys on a file.
+A stealthy keylogger that sends characters captured to a server and saves the logged keys on a file.
